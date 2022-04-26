@@ -1,0 +1,49 @@
+NAME: Bubble
+WIDTH: 7
+HEIGHT: 7
+HEALTH: 100
+SPEED: 1
+JUMP: 1
+
+ANIMATION:
+IMAGE: bubbleAni.bmp
+
+IDLE
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+JUMP
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 12
+pos 0 0
+duration 6
+RIGHT
+frames 10
+pos 0 0
+duration 6

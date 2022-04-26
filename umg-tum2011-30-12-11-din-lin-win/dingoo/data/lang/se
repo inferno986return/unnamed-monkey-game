@@ -1,0 +1,74 @@
+textLangEn engelska
+textLangPl polska
+TextLangSe svenska
+textMenuPressStart Tryck Start
+textMenuQuitToMenu Avsluta till menyn
+textMenuBack Tillbaka
+textMenuPlay Spela
+textMenuOptions Alternativ
+textMenuEditor Editor
+textMenuExit Avsluta
+textMenuControls Kontroller
+textMenuAudio Ljud/Musik
+textMenuVideo Bild
+textMenuKeyboard Tangentbord
+textMenuJoystick Joystick
+textMenuSample11025 Sample rate 11025
+textMenuSample22050 Sample rate 22050
+textMenuSample44100 Sample rate 44100
+textMenuMusicVolOff Music volume OFF
+textMenuMusicVol1 Music volume 1
+textMenuMusicVol2 Music volume 2
+textMenuMusicVol3 Music volume 3
+textMenuMusicVol4 Music volume 4
+textMenuMusicVol5 Music volume 5
+textMenuSfxVolOff Sfx volume OFF
+textMenuSfxVol1 Sfx volume 1
+textMenuSfxVol2 Sfx volume 2
+textMenuSfxVol3 Sfx volume 3
+textMenuSfxVol4 Sfx volume 4
+textMenuSfxVol5 Sfx volume 5
+textMenuScale1x Skala 1x
+textMenuScale2x Skala 2x
+textMenuScale4x Skala 4x
+textMenuShowFpsOff Visa FPS OFF
+textMenuShowFpsOn Visa FPS ON
+textMenuAspectRatio Aspect Ratio
+textMenuFullscreenOff Helskarm OFF
+textMenuFullscreenOn Helskarm ON
+textLevelSelLevel Niva
+textLevelSelLevel01 Niva 1
+textLevelSelLevel02 Niva 2
+textLevelSelLevel03 Niva 3
+textLevelSelLevel04 Niva 4
+textLevelSelLevel05 Niva 5
+textLevelSelCustom Egen bana
+textEditorTileEdit Redigera tiles
+textEditorMobEdit Redigera fienden
+textEditorSave Spara bana
+textEditorBackgroundOn BGD layer [*]
+textEditorBackgroundOff BGD layer [ ]
+textEditorForegroundOn FGD layer [*]
+textEditorForegroundOff FGD layer [ ]
+textEditorSetEditLayer0 Editing Layer 0
+textEditorSetEditLayer1 Editing Layer 1
+textIngameContinue Fortsatt
+textIngameYourTime Din tid:
+textIngameBestTime Basta tid:
+textIngameNewRecord Nytt rekord!
+textIngameLevelComplete Nivan avklarad!
+textIngameGameOver Game Over
+textIngameLocked Dorren ar last
+textTutorialSign01 Welcome to Unnamed Monkey Game! Follow the Hint Signs for further instructions.
+textTutorialSign02 The game depends highly on jumping on platforms. Try to practice on that set of platforms on the left.
+textTutorialSign03 The platforms are one-way only. You Can't jump down through them.
+textTutorialSign04 Jump up and touch the wall, then press [jump] + [left] to bounce off the wall. It's called "wall-jumping".
+textTutorialSign05 You can do multiple wall-jumps in a row. Give it a try.
+textTutorialSign06 You can swim in the water. Your movement will be slowed down.
+textTutorialSign07 The seaweeds can hurt you. Avoid them. Also watch out for that fish!
+textTutorialSign08 You can knock-off enemies by stomping on them. Pick them up and use as projectiles against other enemies.
+textTutorialSign09 Some enemies cannot be stomped on. Kill this one by throwing other enemies at it.
+textTutorialSign10 You need to find a key to unlock this door.
+textTutorialSign11 Spikes can hurt you. Try to jump over them.
+textTutorialSign12 Collect hearts to regenerate your health.
+textTutorialSign13 You've found a key. Now go open that door!

@@ -1,0 +1,75 @@
+textLangEn Angielski
+textLangPl Polski
+TextLangSe Szwedzki
+textMenuPressStart Nacisnij Start
+textMenuQuitToMenu Wyjdz do menu
+textMenuBack Powrot
+textMenuPlay Graj
+textMenuOptions Opcje
+textMenuEditor Edytor
+textMenuExit Wyjscie
+textMenuControls Sterowanie
+textMenuAudio Dzwiek/Muzyka
+textMenuVideo Obraz
+textMenuKeyboard Klawiatura
+textMenuJoystick Dzojstik
+textMenuSample11025 Probkowanie 11025
+textMenuSample22050 Probkowanie 22050
+textMenuSample44100 Probkowanie 44100
+textMenuMusicVolOff Muzyka wyl.
+textMenuMusicVol1 Glos. muzyki 1
+textMenuMusicVol2 Glos. muzyki 2
+textMenuMusicVol3 Glos. muzyki 3
+textMenuMusicVol4 Glos. muzyki 4
+textMenuMusicVol5 Glos. muzyki 5
+textMenuSfxVolOff Dzwiek wyl.
+textMenuSfxVol1 Glos. dzwieku 1
+textMenuSfxVol2 Glos. dzwieku 2
+textMenuSfxVol3 Glos. dzwieku 3
+textMenuSfxVol4 Glos. dzwieku 4
+textMenuSfxVol5 Glos. dzwieku 5
+textMenuScale1x Skala 1x
+textMenuScale2x Skala 2x
+textMenuScale4x Skala 4x
+textMenuShowFpsOff Wyswietlaj FPS NIE
+textMenuShowFpsOn Wyswietlaj FPS TAK
+textMenuAspectRatio Aspect Ratio
+textMenuFullscreenOff Pelny Ekran NIE
+textMenuFullscreenOn Pelnyh Ekran TAK
+textLevelSelLevel Poziom
+textLevelSelLevel01 Poziom 1
+textLevelSelLevel02 Poziom 2
+textLevelSelLevel03 Poziom 3
+textLevelSelLevel04 Poziom 4
+textLevelSelLevel05 Poziom 5
+textLevelSelCustom Inny poziom
+textEditorTileEdit Edycja planszy
+textEditorMobEdit Edycja obiektow
+textEditorSave Zapisz poziom
+textEditorBackgroundOn Warstwa BGD [*]
+textEditorBackgroundOff Warstwa BGD [ ]
+textEditorForegroundOn Warstwa FGD [*]
+textEditorForegroundOff Warstwa FGD [ ]
+textEditorSetEditLayer0 Edycja Warstwy 0
+textEditorSetEditLayer1 Edycja Warstwy 1
+textIngameContinue Kontynuuj
+textIngameYourTime Twoj czas:
+textIngameBestTime Najlepszy:
+textIngameNewRecord Nowy rekord!
+textIngameLevelComplete Poziom ukonczony!
+textIngameGameOver Przegrales
+textIngameLocked Drzwi sa zamkniete
+textTutorialSign01 Welcome to Unnamed Monkey Game! Follow the Hint Signs for further instructions.
+textTutorialSign02 The game depends highly on jumping on platforms. Try to practice on that set of platforms on the left.
+textTutorialSign03 The platforms are one-way only. You Can't jump down through them.
+textTutorialSign04 Jump up and touch the wall, then press [jump] + [left] to bounce off the wall. It's called "wall-jumping".
+#To bounce off this wall, press [jump] + [left] while in the air. It's called "wall-jumping". 
+textTutorialSign05 You can do multiple wall-jumps in a row. Give it a try.
+textTutorialSign06 You can swim in the water. Your movement will be slowed down.
+textTutorialSign07 The seaweeds can hurt you. Avoid them. Also watch out for that fish!
+textTutorialSign08 You can knock-off enemies by stomping on them. Pick them up and use as projectiles against other enemies.
+textTutorialSign09 Some enemies cannot be stomped on. Kill this one by throwing other enemies at it.
+textTutorialSign10 You need to find a key to unlock this door.
+textTutorialSign11 Spikes can hurt you. Try to jump over them.
+textTutorialSign12 Collect hearts to regenerate your health.
+textTutorialSign13 You've found a key. Now go open that door!

@@ -1,0 +1,49 @@
+NAME: Shell Dude
+WIDTH: 15
+HEIGHT: 13
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+
+ANIMATION:
+IMAGE: shellAnim.bmp
+
+IDLE
+LEFT
+frames 3 3 3 3 3 3 3 3 3 3 4 5 4
+pos 1 -3
+duration 12
+RIGHT
+frames 0 0 0 0 0 0 0 0 0 0 1 2 1
+pos -1 -3
+duration 12
+
+WALK
+LEFT
+frames 10 9
+pos 1 -3
+duration 6
+RIGHT
+frames 7 6
+pos -1 -3
+duration 6
+
+JUMP
+LEFT
+frames 15 16 17
+pos 1 -3
+duration 6
+RIGHT
+frames 12 13 14
+pos -1 -3
+duration 6
+
+DIE
+LEFT
+frames 21 22
+pos 1 -3
+duration 48
+RIGHT
+frames 18 19
+pos -1 -3
+duration 48

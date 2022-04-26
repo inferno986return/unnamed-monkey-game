@@ -1,0 +1,52 @@
+NAME: Dust
+WIDTH: 7
+HEIGHT: 4
+HEALTH: 45
+SPEED: 1
+JUMP: 1
+
+ANIMATION:
+IMAGE: gibsAni.bmp
+
+IDLE
+LEFT
+frames 24 25 26 27 28 29 30 31
+pos 0 0
+duration 6
+RIGHT
+frames 16 17 18 19 20 21 22 23
+pos 0 0
+duration 6
+
+WALK
+LEFT
+frames 24 25 26 27 28 29 30 31
+pos 0 0
+duration 6
+RIGHT
+frames 16 17 18 19 20 21 22 23
+pos 0 0
+duration 6
+
+JUMP
+LEFT
+frames 24 25 26 27 28 29 30 31
+pos 0 0
+duration 6
+RIGHT
+frames 16 17 18 19 20 21 22 23
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 15
+pos 0 0
+duration 6
+RIGHT
+frames 7
+pos 0 0
+duration 6
+
+#frames 8 9 10 11 12 13 14 15
+#frames 0 1 2 3 4 5 6 7

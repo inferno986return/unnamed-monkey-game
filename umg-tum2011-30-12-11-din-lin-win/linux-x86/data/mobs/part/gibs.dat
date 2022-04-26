@@ -1,0 +1,49 @@
+NAME: Gibs
+WIDTH: 7
+HEIGHT: 7
+HEALTH: 200
+SPEED: 1
+JUMP: 1
+
+ANIMATION:
+IMAGE: gibsAni.bmp
+
+IDLE
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 16 17 18 19 20 21 22 23
+pos 0 0
+duration 6
+RIGHT
+frames 24 25 26 27 28 29 30 31
+pos 0 0
+duration 6
+
+JUMP
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6

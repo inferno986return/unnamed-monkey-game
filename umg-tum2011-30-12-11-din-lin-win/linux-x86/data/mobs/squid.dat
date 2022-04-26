@@ -1,0 +1,49 @@
+NAME: Squid
+WIDTH: 16
+HEIGHT: 14
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+
+ANIMATION:
+IMAGE: squidAnim.bmp
+
+IDLE
+LEFT
+frames 3 3 3 4 4 4 3 3 3 5 5 5
+pos 1 -2
+duration 12
+RIGHT
+frames 0 0 0 1 1 1 0 0 0 2 2 2
+pos -1 -2
+duration 12
+
+WALK
+LEFT
+frames 9 10
+pos 1 -2
+duration 12
+RIGHT
+frames 6 7
+pos -1 -2
+duration 12
+
+JUMP
+LEFT
+frames 15 16 17
+pos 1 -2
+duration 6
+RIGHT
+frames 12 13 14
+pos -1 -2
+duration 6
+
+DIE
+LEFT
+frames 21 22
+pos 1 -2
+duration 48
+RIGHT
+frames 18 19
+pos -1 -2
+duration 48

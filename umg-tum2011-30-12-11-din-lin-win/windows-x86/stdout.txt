@@ -1,0 +1,4 @@
+No joysticks were found
+Audio sample rate: 22050
+320x240 16bpp (160x120, x2)
+Translation loaded

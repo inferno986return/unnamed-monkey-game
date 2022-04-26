@@ -1,0 +1,49 @@
+NAME: Dust
+WIDTH: 4
+HEIGHT: 7
+HEALTH: 45
+SPEED: 1
+JUMP: 1
+
+ANIMATION:
+IMAGE: dustvAni.bmp
+
+IDLE
+LEFT
+frames 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 4 5 6 7
+pos 0 0
+duration 6
+
+WALK
+LEFT
+frames 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 4 5 6 7
+pos 0 0
+duration 6
+
+JUMP
+LEFT
+frames 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 4 5 6 7
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 15
+pos 0 0
+duration 6
+RIGHT
+frames 7
+pos 0 0
+duration 6

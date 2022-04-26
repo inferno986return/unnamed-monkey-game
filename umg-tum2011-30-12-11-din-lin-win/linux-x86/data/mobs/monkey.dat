@@ -1,0 +1,49 @@
+NAME: monkey
+WIDTH: 13
+HEIGHT: 13
+HEALTH: 3
+SPEED: 5
+JUMP: 5
+
+ANIMATION:
+IMAGE: monkeyAnim.bmp
+
+IDLE
+LEFT
+frames 4 4 4 4 4 4 4 4 4 4 5 6 5 4 4 4 4 4 4 4 4 4 4 7 7 7
+pos 0 -3
+duration 12
+RIGHT
+frames 0 0 0 0 0 0 0 0 0 0 1 2 1 0 0 0 0 0 0 0 0 0 0 3 3 3
+pos -3 -3
+duration 12
+
+WALK
+LEFT
+frames 13 14 12
+pos 0 -3
+duration 6
+RIGHT
+frames 9 10 8
+pos -3 -3
+duration 6
+
+JUMP
+LEFT
+frames 20 21 22 23
+pos 0 -3
+duration 6
+RIGHT
+frames 16 17 18 19
+pos -3 -3
+duration 6
+
+DIE
+LEFT
+frames 28
+pos 0 -3
+duration 48
+RIGHT
+frames 24
+pos -3 -3
+duration 48

@@ -1,0 +1,28 @@
+		   !!! WARNING !!!
+
+The "2x scaling" fullscreen mode does not
+work on the windows version, and will make
+the game hang! If you accidentaly activate
+it, go into taskmanager and kill the
+umg.exe process. You will have to use the
+keyboard, as the mouse stays locked until
+you kill the process. Then open the
+config.cfg file in the data directory,
+look for the "FULLSCREEN 1" line and change
+it to "FULLSCREEN 0". Save and restart the
+game.
+
+The 1x and 4x fullscreen modes work fine!
+
+Also, while the game is running, the mouse
+is locked to the upper left corner of your
+screen, even if you alt-tab out of it.
+Exit the game to unlock it.
+
+These bugs will be fixed in future
+versions, but our windows coder is away
+for a few days.
+
+Remember, its a beta. :)
+
+http://umg.t44.org

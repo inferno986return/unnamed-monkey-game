@@ -1,0 +1,50 @@
+NAME: Bee
+WIDTH: 21
+#HEIGHT: 18
+HEIGHT: 16
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+
+ANIMATION:
+IMAGE: beeAnim.bmp
+
+IDLE
+LEFT
+frames 3 4
+pos 0 -1
+duration 12
+RIGHT
+frames 0 1
+pos 0 -1
+duration 12
+
+WALK
+LEFT
+frames 9 10
+pos 0 -1
+duration 2
+RIGHT
+frames 6 7
+pos 0 -1
+duration 2
+
+JUMP
+LEFT
+frames 15 16 17
+pos 0 -1
+duration 2
+RIGHT
+frames 12 13 14
+pos 0 -1
+duration 2
+
+DIE
+LEFT
+frames 21 22
+pos 0 3
+duration 48
+RIGHT
+frames 18 19
+pos 0 3
+duration 48

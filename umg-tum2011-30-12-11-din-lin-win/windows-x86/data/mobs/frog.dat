@@ -1,0 +1,49 @@
+NAME: Frog
+WIDTH: 16
+HEIGHT: 13
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+
+ANIMATION:
+IMAGE: shellAnim.bmp
+
+IDLE
+LEFT
+frames 3 3 3 3 3 3 4
+pos -4 -3
+duration 12
+RIGHT
+frames 0 0 0 0 0 0 1
+pos 1 -3
+duration 12
+
+WALK
+LEFT
+frames 3
+pos -4 -3
+duration 6
+RIGHT
+frames 6
+pos 1 -3
+duration 6
+
+JUMP
+LEFT
+frames 15 16 17
+pos 0 0
+duration 6
+RIGHT
+frames 12 13 14
+pos -3 0
+duration 6
+
+DIE
+LEFT
+frames 21 22
+pos -4 -3
+duration 48
+RIGHT
+frames 18 19
+pos 1 -3
+duration 48

@@ -1,0 +1,49 @@
+NAME: A key
+WIDTH: 12
+HEIGHT: 13
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+
+ANIMATION:
+IMAGE: keyAni.bmp
+
+IDLE
+LEFT
+frames 1
+pos -2 -3
+duration 12
+RIGHT
+frames 0
+pos -2 -3
+duration 12
+
+WALK
+LEFT
+frames 0
+pos 2 -3
+duration 6
+RIGHT
+frames 0
+pos -2 -3
+duration 6
+
+JUMP
+LEFT
+frames 0 0 0
+pos 2 -3
+duration 6
+RIGHT
+frames 0 0 0
+pos -2 -3
+duration 6
+
+DIE
+LEFT
+frames 7
+pos 2 -3
+duration 48
+RIGHT
+frames 6
+pos -2 -3
+duration 48
