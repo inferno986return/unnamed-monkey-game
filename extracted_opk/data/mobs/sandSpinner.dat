@@ -1,0 +1,64 @@
+TYPE: M_SANDSPINNER
+NAME: Sandspinner
+TILESET: sandSpinnerAni 13 15 4 28
+WIDTH: 13
+HEIGHT: 15
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+PARAMETERS:
+RespawnConfigurable
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 4 5 6 7
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3
+pos 0 0
+duration 6
+
+WALK
+LEFT
+frames 12 13 14 15
+pos 0 0
+duration 5
+RIGHT
+frames 8 9 10 11
+pos 0 0
+duration 5
+
+JUMP_UP
+LEFT
+frames 20 20 20
+pos 0 0
+duration 6
+RIGHT
+frames 16 16 16
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 20 20 20
+pos 0 0
+duration 6
+RIGHT
+frames 16 16 16
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 24 25 26 27
+pos 0 0
+duration 6
+RIGHT
+frames 24 25 26 27
+pos 0 0
+duration 6

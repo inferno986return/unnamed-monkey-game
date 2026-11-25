@@ -1,0 +1,64 @@
+TYPE: M_CAGE
+NAME: Cage
+TILESET: cageAni 16 16 4 8
+WIDTH: 16
+HEIGHT: 15
+HEALTH: 1
+SPEED: 1
+JUMP: 1
+DRAW_ORDER: 2
+
+PARAMETERS:
+RequiresKey
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 4 5 4 5 4 5 4 5 6 7 6 7
+pos 0 0
+duration 32
+RIGHT
+frames 0 1 0 1 0 1 0 1 2 3 2 3
+pos 0 0
+duration 32
+
+WALK
+LEFT
+frames 4 5 4 5 4 5 4 5 6 7 6 7
+pos 0 0
+duration 32
+RIGHT
+frames 0 1 0 1 0 1 0 1 2 3 2 3
+pos 0 0
+duration 32
+
+JUMP_UP
+LEFT
+frames 4 5 4 5 4 5 4 5 6 7 6 7
+pos 0 0
+duration 32
+RIGHT
+frames 0 1 0 1 0 1 0 1 2 3 2 3
+pos 0 0
+duration 32
+
+JUMP_DOWN
+LEFT
+frames 4 5 4 5 4 5 4 5 6 7 6 7
+pos 0 0
+duration 32
+RIGHT
+frames 0 1 0 1 0 1 0 1 2 3 2 3
+pos 0 0
+duration 32
+
+DIE
+LEFT
+frames 7
+pos 0 0
+duration 32
+RIGHT
+frames 3
+pos 0 0
+duration 32

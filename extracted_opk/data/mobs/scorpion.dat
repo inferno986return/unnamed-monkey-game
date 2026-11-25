@@ -1,0 +1,64 @@
+TYPE: M_SCORPION
+NAME: Scorpion
+TILESET: scorpionAni 19 16 3 24
+WIDTH: 19
+HEIGHT: 16
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+PARAMETERS:
+RespawnConfigurable
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 3 4
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 9 10 11 10
+pos 0 0
+duration 6
+RIGHT
+frames 6 7 8 7
+pos 0 0
+duration 6
+
+JUMP_UP
+LEFT
+frames 15 16 17
+pos 0 0
+duration 6
+RIGHT
+frames 12 13 14
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 15 16 17
+pos 0 0
+duration 6
+RIGHT
+frames 12 13 14
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 21 22
+pos 0 0
+duration 48
+RIGHT
+frames 18 19
+pos 0 0
+duration 48

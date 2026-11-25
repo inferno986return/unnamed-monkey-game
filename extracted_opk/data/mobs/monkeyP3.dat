@@ -1,0 +1,131 @@
+TYPE: M_MONKEY_P3
+NAME: Monkey (P3 anim)
+TILESET: monkey03Ani 20 20 8 176
+WIDTH: 13
+HEIGHT: 13
+HEALTH: 3
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 8 8 8 8 8 8 8 8 8 8 9 10 9 8 8 8 8 8 8 8 8 8 8 11 11 11
+pos -2 -5
+duration 12
+RIGHT
+frames 0 0 0 0 0 0 0 0 0 0 1 2 1 0 0 0 0 0 0 0 0 0 0 3 3 3
+pos -5 -5
+duration 12
+
+WALK
+LEFT
+frames 24 25 26 27 28 29
+pos -2 -5
+duration 3
+RIGHT
+frames 16 17 18 19 20 21
+pos -5 -5
+duration 3
+
+JUMP_UP
+LEFT
+frames 41 42 43 44
+pos -2 -5
+duration 6
+RIGHT
+frames 33 34 35 36
+pos -5 -5
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 45 46 47
+pos -2 -5
+duration 6
+RIGHT
+frames 37 38 39
+pos -5 -5
+duration 6
+
+DIE
+LEFT
+frames 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175
+pos -2 -5
+duration 6
+RIGHT
+frames 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159
+pos -5 -5
+duration 6
+
+#DEAD_LOOP
+#LEFT
+#frames 173 174 175
+#pos -2 -5
+#duration 6
+#RIGHT
+#frames 157 158 159
+#pos -5 -5
+#duration 6
+
+CARRY_IDLE
+LEFT
+frames 72 72 72 72 72 72 72 72 72 72 73 73 73
+pos -2 -5
+duration 24
+RIGHT
+frames 64 64 64 64 64 64 64 64 64 64 65 65 65
+pos -5 -5
+duration 24
+
+CARRY_WALK
+LEFT
+frames 88 89 90 91 92 93
+pos -2 -5
+duration 3
+RIGHT
+frames 80 81 82 83 84 85
+pos -5 -5
+duration 3
+
+CARRY_JUMP_UP
+LEFT
+frames 105 106 107
+pos -2 -5
+duration 6
+RIGHT
+frames 97 98 99
+pos -5 -5
+duration 6
+
+CARRY_JUMP_DOWN
+LEFT
+frames 108 109 110 111
+pos -2 -5
+duration 6
+RIGHT
+frames 100 101 102 103
+pos -5 -5
+duration 6
+
+SWIM
+LEFT
+frames 120 121 122 123 124 125 126 127
+pos -2 -5
+duration 12
+RIGHT
+frames 112 113 114 115 116 117 118 119
+pos -5 -5
+duration 12
+
+SWIM_IDLE
+LEFT
+frames 136 137 138 139
+pos -2 -5
+duration 12
+RIGHT
+frames 128 129 130 131
+pos -5 -5
+duration 12

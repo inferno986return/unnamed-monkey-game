@@ -9,6 +9,12 @@ I've archived the installer from scene.org and the .opk file from the GCW Zero w
 
 I would like to see this game completed or possibly remade. Perhaps it could be a Godot project?
 
+## November 2026 update - reverse-engineering the .opk
+
+I managed to start reverse-engineering the .opk, but I'll need Ghidra to decompile it. It was designed for MIPS Linux handheld consoles (i.e. the GCW Zero).
+
+## Website links
+
 ~~http://umg.t44.org/~~ - defunct
 https://www.pouet.net/prod.php?which=58300
 https://demozoo.org/productions/25405/
@@ -41,4 +47,4 @@ Zear .................. Code & GFX
 Harteex ..................... Code  
 Topy44 ..................... Music  
 
-http://umg.t44.org/  
+http://umg.t44.org/

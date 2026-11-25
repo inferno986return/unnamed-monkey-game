@@ -1,0 +1,64 @@
+TYPE: M_SNAIL
+NAME: Snail
+TILESET: snailAni 28 20 4 32
+WIDTH: 16
+HEIGHT: 16
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+PARAMETERS:
+RespawnConfigurable
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 4
+pos -4 -3
+duration 12
+RIGHT
+frames 0
+pos -4 -3
+duration 12
+
+WALK
+LEFT
+frames 12 13 14 15
+pos -4 -3
+duration 8
+RIGHT
+frames 8 9 10 11
+pos -4 -3
+duration 8
+
+JUMP_UP
+LEFT
+frames 20
+pos -4 -3
+duration 6
+RIGHT
+frames 16
+pos -4 -3
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 20
+pos -4 -3
+duration 6
+RIGHT
+frames 16
+pos -4 -3
+duration 6
+
+DIE
+LEFT
+frames 28
+pos -4 -2
+duration 48
+RIGHT
+frames 24
+pos -4 -2
+duration 48

@@ -1,0 +1,64 @@
+TYPE: M_SPRINGY
+NAME: Springy
+TILESET: springyAni 15 18 4 32
+WIDTH: 15
+HEIGHT: 18
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+PARAMETERS:
+RespawnConfigurable
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 4 5 6 7 6 5
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 2 1
+pos 0 0
+duration 6
+
+WALK
+LEFT
+frames 4 5 6 7 6 5
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 2 1
+pos 0 0
+duration 6
+
+JUMP_UP
+LEFT
+frames 20 21 22
+pos 0 0
+duration 6
+RIGHT
+frames 16 17 18
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 20 21 22
+pos 0 0
+duration 6
+RIGHT
+frames 16 17 18
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 28 29
+pos 0 0
+duration 48
+RIGHT
+frames 24 25
+pos 0 0
+duration 48

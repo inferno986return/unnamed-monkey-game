@@ -1,0 +1,64 @@
+TYPE: M_BULLET
+NAME: Bullet
+TILESET: bulletAni 6 4 1 1
+WIDTH: 6
+HEIGHT: 4
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+PARAMETERS:
+NotPlacable
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+JUMP_UP
+LEFT
+frames 0 0 0
+pos 0 0
+duration 6
+RIGHT
+frames 0 0 0
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 0 0 0
+pos 0 0
+duration 6
+RIGHT
+frames 0 0 0
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 0
+pos 0 0
+duration 48
+RIGHT
+frames 0
+pos 0 0
+duration 48

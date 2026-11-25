@@ -1,0 +1,61 @@
+TYPE: M_CANNON
+NAME: Cannon
+TILESET: cannonAni 15 26 1 2
+WIDTH: 15
+HEIGHT: 26
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 1
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 1
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+JUMP_UP
+LEFT
+frames 1 1 1
+pos 0 0
+duration 6
+RIGHT
+frames 0 0 0
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 1 1 1
+pos 0 0
+duration 6
+RIGHT
+frames 0 0 0
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 1
+pos 0 0
+duration 48
+RIGHT
+frames 0
+pos 0 0
+duration 48

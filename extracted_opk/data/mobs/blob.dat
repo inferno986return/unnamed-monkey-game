@@ -1,0 +1,61 @@
+TYPE: M_BLOB
+NAME: Blob
+TILESET: blobAni 12 15 4 32
+WIDTH: 12
+HEIGHT: 14
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 4 5
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 4 5
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+JUMP_UP
+LEFT
+frames 20
+pos 0 0
+duration 12
+RIGHT
+frames 16
+pos 0 0
+duration 12
+
+JUMP_DOWN
+LEFT
+frames 22
+pos 0 0
+duration 12
+RIGHT
+frames 18
+pos 0 0
+duration 12
+
+DIE
+LEFT
+frames 28 29
+pos 0 -1
+duration 48
+RIGHT
+frames 24 25
+pos 0 -1
+duration 48

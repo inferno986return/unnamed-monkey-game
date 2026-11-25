@@ -1,0 +1,61 @@
+TYPE: M_HEART
+NAME: Heart (item)
+TILESET: heartAni 10 10 7 56
+WIDTH: 10
+HEIGHT: 10
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 1
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 9 10 11 12 13
+pos 0 0
+duration 3
+RIGHT
+frames 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 3 4 5 6
+pos 0 0
+duration 3
+
+WALK
+LEFT
+frames 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 9 10 11 12 13
+pos 0 0
+duration 3
+RIGHT
+frames 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 3 4 5 6
+pos 0 0
+duration 3
+
+JUMP_UP
+LEFT
+frames 0 0 0
+pos 0 0
+duration 6
+RIGHT
+frames 0 0 0
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 0 0 0
+pos 0 0
+duration 6
+RIGHT
+frames 0 0 0
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 7
+pos 0 0
+duration 48
+RIGHT
+frames 6
+pos 0 0
+duration 48

@@ -1,0 +1,64 @@
+TYPE: M_MONKEY_SMALL
+NAME: Monkey (for world map)
+TILESET: monkeySmallAni 11 10 2 4
+WIDTH: 11
+HEIGHT: 10
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+PARAMETERS:
+NotPlacable
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 2 3
+pos 0 0
+duration 24
+RIGHT
+frames 0 1
+pos 0 0
+duration 24
+
+WALK
+LEFT
+frames 2 3
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+JUMP_UP
+LEFT
+frames 2 3
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+JUMP_DOWN
+LEFT
+frames 2 3
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+DIE
+LEFT
+frames 2 3
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12

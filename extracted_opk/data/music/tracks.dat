@@ -1,0 +1,9 @@
+# Visible in editor?, Key name, Name, Track index
+# Y = Visible in editor, N = Not visible in editor
+Y NONE None 0
+N INTRO Intro 20
+Y JUNGLE Jungle 1
+Y INDUSTRIAL Industrial 35
+Y GRASSLANDS Grasslands 57
+N GAMEOVER Game_Over 82
+N LEVEL_COMPLETE Level_Complete 84

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=UMG
+Comment=Unnamed Monkey Game - exclusive preview
+Exec=umg.elf
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=umg
+Categories=games;

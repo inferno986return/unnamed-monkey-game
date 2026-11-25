@@ -1,0 +1,64 @@
+TYPE: M_PLATFORM
+NAME: Platform
+TILESET: platformAni 16 7 1 1
+WIDTH: 16
+HEIGHT: 7
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+PARAMETERS:
+HasPath
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+JUMP_UP
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+JUMP_DOWN
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+DIE
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12

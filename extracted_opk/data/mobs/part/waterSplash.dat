@@ -1,0 +1,61 @@
+TYPE: P_WATERSPLASH
+NAME: Water Splash
+TILESET: waterSplashAni 18 12 8 16
+WIDTH: 18
+HEIGHT: 12
+HEALTH: 48
+SPEED: 1
+JUMP: 1
+DRAW_ORDER: 1
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+pos 0 0
+duration 3
+RIGHT
+frames 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+pos 0 0
+duration 3
+
+WALK
+LEFT
+frames 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+
+JUMP_UP
+LEFT
+frames 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 15
+pos 0 0
+duration 1
+RIGHT
+frames 15
+pos 0 0
+duration 1

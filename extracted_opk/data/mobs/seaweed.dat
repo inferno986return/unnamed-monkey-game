@@ -1,0 +1,61 @@
+TYPE: M_SEAWEED
+NAME: Seaweed
+TILESET: seaweedAni 16 13 3 24
+WIDTH: 9
+HEIGHT: 13
+HEALTH: 25
+SPEED: 1
+JUMP: 5
+DRAW_ORDER: 9
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 3
+pos -1 0
+duration 12
+RIGHT
+frames 0
+pos -1 0
+duration 12
+
+WALK
+LEFT
+frames 9 10 11 10
+pos -1 0
+duration 6
+RIGHT
+frames 6 7 8 7
+pos -1 0
+duration 6
+
+JUMP_UP
+LEFT
+frames 3
+pos -1 0
+duration 6
+RIGHT
+frames 0
+pos -1 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 3
+pos -1 0
+duration 6
+RIGHT
+frames 0
+pos -1 0
+duration 6
+
+DIE
+LEFT
+frames 3
+pos -1 0
+duration 48
+RIGHT
+frames 0
+pos -1 0
+duration 48

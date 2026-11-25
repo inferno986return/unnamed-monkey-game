@@ -1,0 +1,118 @@
+textLangEn English
+textLangPl Polish
+TextLangSe Swedish
+textMenuPressStart Press Start
+textMenuQuitToMenu Quit to menu
+textMenuBack Back
+textMenuPlay Play
+textMenuOptions Options
+textMenuEditor Editor
+textMenuExit Exit
+textMenuControls Controls
+textMenuAudio Sound/Music
+textMenuVideo Video
+textMenuOther Other
+textMenuCheats Cheats
+textMenuKeyboard Keyboard
+textMenuJoystick Joystick
+textMenuSetPlayer1 Player 1
+textMenuSetPlayer2 Player 2
+textMenuSetPlayer3 Player 3
+textMenuSetPlayer4 Player 4
+textMenuSample11025 Sample rate 11025
+textMenuSample22050 Sample rate 22050
+textMenuSample44100 Sample rate 44100
+textMenuMusicVolOff Music volume OFF
+textMenuMusicVol1 Music volume 1
+textMenuMusicVol2 Music volume 2
+textMenuMusicVol3 Music volume 3
+textMenuMusicVol4 Music volume 4
+textMenuMusicVol5 Music volume 5
+textMenuSfxVolOff Sfx volume OFF
+textMenuSfxVol1 Sfx volume 1
+textMenuSfxVol2 Sfx volume 2
+textMenuSfxVol3 Sfx volume 3
+textMenuSfxVol4 Sfx volume 4
+textMenuSfxVol5 Sfx volume 5
+textMenuScale1x Scale 1x
+textMenuScale2x Scale 2x
+textMenuScale4x Scale 4x
+textMenuShowFpsOff Show FPS OFF
+textMenuShowFpsOn Show FPS ON
+textMenuPaletteOriginal Palette Original
+textMenuPaletteFaded Palette Faded
+textMenuPaletteGrayscale Palette Grayscale
+textMenuAspectRatio Aspect Ratio
+textMenuFullscreenOff Fullscreen OFF
+textMenuFullscreenOn Fullscreen ON
+textMenuNumOfPlayers1 Number of players 1
+textMenuNumOfPlayers2 Number of players 2
+textMenuNumOfPlayers3 Number of players 3
+textMenuNumOfPlayers4 Number of players 4
+textMenuGameplayTypeStory Mode: Story
+textMenuGameplayTypeDeathmatch Mode: Battle
+textMenuGameplayTypeTag Mode: Tag
+textMenuGameplayTypeCageHunt Mode: Cage Hunt
+textMenuCaptionsOff Player captions OFF
+textMenuCaptionsSimple Player captions Simple
+textMenuCaptionsFull Player captions Full
+textMenuBotP1Off P1 Bot OFF
+textMenuBotP1On P1 Bot ON
+textMenuBotP2Off P2 Bot OFF
+textMenuBotP2On P2 Bot ON
+textMenuBotP3Off P3 Bot OFF
+textMenuBotP3On P3 Bot ON
+textMenuBotP4Off P4 Bot OFF
+textMenuBotP4On P4 Bot ON
+textCheatGodmodeOff Godmode OFF
+textCheatGodmodeOn Godmode ON
+textCheatToggleKey Toggle exit key
+textCheatNoclipOff Noclip OFF
+textCheatNoclipOn Noclip ON
+textCheatDebugOff Debug mode OFF
+textCheatDebugOn Debug mode ON
+textLevelSelLevel Level
+textLevelSelLevel01 Level 1
+textLevelSelLevel02 Level 2
+textLevelSelLevel03 Level 3
+textLevelSelLevel04 Level 4
+textLevelSelLevel05 Level 5
+textLevelSelLevel06 Level 6
+textLevelSelLevel07 Level 7
+textLevelSelArena01 Arena 1
+textLevelSelArena02 Arena 2
+textLevelSelArena03 Arena 3
+textLevelSelArena04 Arena 4
+textLevelSelArena05 Arena 5
+textLevelSelCustom Custom map
+textEditorTileEdit Tile edit
+textEditorMobEdit Mob edit
+textEditorSave Save map
+textEditorBackgroundOn BGD layer [*]
+textEditorBackgroundOff BGD layer [ ]
+textEditorForegroundOn FGD layer [*]
+textEditorForegroundOff FGD layer [ ]
+textEditorSetEditLayer0 Editing Layer 0
+textEditorSetEditLayer1 Editing Layer 1
+textIngameContinue Continue
+textIngameYourTime Your time:
+textIngameBestTime Best time:
+textIngameNewRecord New record!
+textIngameLevelComplete Level complete!
+textIngameRescued Rescued:
+textIngameGameOver Game Over
+textIngameLocked The door is locked
+textTutorialSign01 Welcome to Unnamed Monkey Game! Follow the Hint Signs for further instructions.
+textTutorialSign02 The game depends highly on jumping on platforms. Try to practice on that set of platforms on the left.
+textTutorialSign03 The platforms are one-way only. You Can't jump down through them.
+textTutorialSign04 Jump up and touch the wall, then press [jump] + [left] to bounce off the wall. It's called "wall-jumping".
+textTutorialSign05 You can do multiple wall-jumps in a row. Give it a try.
+textTutorialSign06 You can swim in the water. Your movement will be slowed down.
+textTutorialSign07 The darker seaweeds are poisonous, avoid them. Also watch out for that fish!
+textTutorialSign08 You can knock-off enemies by stomping on them. Pick them up and use as projectiles against other enemies.
+textTutorialSign09 Some enemies cannot be stomped on. Kill this one by throwing other enemies at it.
+textTutorialSign10 You need to find a key to unlock this door.
+textTutorialSign11 Spikes can hurt you. Try to jump over them.
+textTutorialSign12 Collect hearts to regenerate your health.
+textTutorialSign13 You've found a key. Now go open that door!
+textTutorialSign14 Poor monkeys are locked in the cages. There are 4 different keys hidden on the map. One fits exactly to one cage lock. Find the correct key to open the given cage. Help free the monkeys!

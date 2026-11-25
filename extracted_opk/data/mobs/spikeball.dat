@@ -1,0 +1,61 @@
+TYPE: M_SPIKEBALL
+NAME: Spike Ball
+TILESET: spikeBallAni 11 11 2 2
+WIDTH: 11
+HEIGHT: 11
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 3
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 0 1
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 0 1
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+JUMP_UP
+LEFT
+frames 0 1
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+JUMP_DOWN
+LEFT
+frames 0 1
+pos 0 0
+duration 12
+RIGHT
+frames 0 1
+pos 0 0
+duration 12
+
+DIE
+LEFT
+frames 0 1
+pos 0 0
+duration 48
+RIGHT
+frames 0 1
+pos 0 0
+duration 48

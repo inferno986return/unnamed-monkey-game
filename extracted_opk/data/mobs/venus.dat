@@ -1,0 +1,64 @@
+TYPE: M_VENUS
+NAME: Venus Trap
+TILESET: venusAni 11 16 13 13
+WIDTH: 11
+HEIGHT: 16
+HEALTH: 1
+SPEED: 1
+JUMP: 1
+DRAW_ORDER: 3
+
+PARAMETERS:
+RespawnConfigurable
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 3 4 2 10
+pos 0 0
+duration 120
+RIGHT
+frames 3 4 2 10
+pos 0 0
+duration 120
+
+WALK
+LEFT
+frames 0 1 2 3 4 5 6 5 4 5 6 5 7 8 9 8 7 8 9 8 4 5 6 5 4 5 6 5 10 11 12 11 10 11 12 11 4 5 6 5 4 5 6 5 4 5 6 5 4 5 6 5 7 8 9 8 7 8 9 8 4 5 6 5 4 5 6 5 10 11 12 11 10 11 12 11 4 5 6 5 4 5 6 5 4 5 6 5 4 5 6 5 4 3 2 1 0
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2 3 4 5 6 5 4 5 6 5 7 8 9 8 7 8 9 8 4 5 6 5 4 5 6 5 10 11 12 11 10 11 12 11 4 5 6 5 4 5 6 5 4 5 6 5 4 5 6 5 7 8 9 8 7 8 9 8 4 5 6 5 4 5 6 5 10 11 12 11 10 11 12 11 4 5 6 5 4 5 6 5 4 5 6 5 4 5 6 5 4 3 2 1 0
+pos 0 0
+duration 6
+
+JUMP_UP
+LEFT
+frames 0 1 2
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 0 1 2
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 0
+pos 0 0
+duration 48
+RIGHT
+frames 0
+pos 0 0
+duration 48

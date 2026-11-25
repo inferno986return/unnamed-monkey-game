@@ -1,0 +1,64 @@
+TYPE: M_FALLING_SPIKE_JUNGLE
+NAME: Falling Spike (Jungle)
+TILESET: fallingSpikeJungleAni 15 14 1 1
+WIDTH: 15
+HEIGHT: 14
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 1
+
+PARAMETERS:
+RespawnConfigurable
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+WALK
+LEFT
+frames 0
+pos 0 0
+duration 12
+RIGHT
+frames 0
+pos 0 0
+duration 12
+
+JUMP_UP
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6

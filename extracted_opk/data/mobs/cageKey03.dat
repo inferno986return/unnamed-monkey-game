@@ -1,0 +1,51 @@
+TYPE: M_CAGE_KEY_03
+NAME: Cage key #3 (item)
+TILESET: cageKey03Ani 7 16 1 5
+WIDTH: 7
+HEIGHT: 14
+HEALTH: 1
+SPEED: 5
+JUMP: 5
+DRAW_ORDER: 1
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 0 1 1 1 2 2 3 3 3 3 4
+pos 0 -2
+duration 7
+RIGHT
+frames 0 1 1 1 2 2 3 3 3 3 4
+pos 0 -2
+duration 7
+
+WALK
+LEFT
+frames 0 1 1 1 2 2 3 3 3 3 4
+pos 0 -2
+duration 7
+RIGHT
+frames 0 1 1 1 2 2 3 3 3 3 4
+pos 0 -2
+duration 7
+
+JUMP
+LEFT
+frames 0 1 1 1 2 2 3 3 3 3 4
+pos 0 -2
+duration 7
+RIGHT
+frames 0 1 1 1 2 2 3 3 3 3 4
+pos 0 -2
+duration 7
+
+DIE
+LEFT
+frames 0 1 1 1 2 2 3 3 3 3 4
+pos 0 -2
+duration 7
+RIGHT
+frames 0 1 1 1 2 2 3 3 3 3 4
+pos 0 -2
+duration 7

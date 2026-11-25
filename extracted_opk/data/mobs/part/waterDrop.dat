@@ -1,0 +1,61 @@
+TYPE: P_WATERDROP
+NAME: Water Drop
+TILESET: waterdropAni 1 1 3 3
+WIDTH: 1
+HEIGHT: 1
+HEALTH: 200
+SPEED: 1
+JUMP: 1
+DRAW_ORDER: 9
+
+ANIMATION:
+
+IDLE
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+WALK
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+JUMP_UP
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+JUMP_DOWN
+LEFT
+frames 0
+pos 0 0
+duration 6
+RIGHT
+frames 0
+pos 0 0
+duration 6
+
+DIE
+LEFT
+frames 0 1 2
+pos 0 0
+duration 6
+RIGHT
+frames 0 1 2
+pos 0 0
+duration 6
