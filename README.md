@@ -1,13 +1,24 @@
 # unnamed-monkey-game
 Archive (and maybe one day a port) of the Unnamed Monkey Game by zear, that was famously on the GCW Zero
 
-*Unnamed Monkey Game* is a homebrew platformer which plays homage to the original Gameboy with its choice of graphics and music.
+*Unnamed Monkey Game* (not to be confused with a separate horror game *Untitled Monkey Game*) is a homebrew platformer which plays homage to the original Gameboy with its choice of graphics and music.
 
 The game was developed into a demo though presumably remains unfinished, along with the website being down due to a MySQL error - makes me wonder if it will be completed.
 
 I've archived the installer from scene.org and the .opk file from the GCW Zero website which can be played on a GCW Zero console (and possibly other Dingoo consoles).
 
 I would like to see this game completed or possibly remade. Perhaps it could be a Godot project?
+
+~~http://umg.t44.org/~~ - defunct
+https://www.pouet.net/prod.php?which=58300
+https://demozoo.org/productions/25405/
+
+https://www.facebook.com/UnnamedMonkeyGame/
+
+https://www.youtube.com/channel/UC25D7R04oRWt7rGOxKkLzZA
+https://www.youtube.com/watch?v=iEcfx24SSmg
+https://www.youtube.com/watch?v=KRdsZVkp1Xs
+https://www.youtube.com/watch?v=eR1KRIOV0AI
 
 ## Original description
 
