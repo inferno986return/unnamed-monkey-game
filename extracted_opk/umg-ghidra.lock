@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Thu Nov 26 21:24:49 GMT 2026
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+Hostname=MP-LAPTOP
+OS\ Architecture=amd64
+OS\ Name=Linux
+OS\ Version=6.18.58.1-microsoft-standard-WSL2
+Timestamp=11/26/26, 9\:24\u202FPM
+Username=hal
